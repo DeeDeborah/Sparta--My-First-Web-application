@@ -1,0 +1,67 @@
+body {
+
+	background-color: #ffccff;
+	color: #555;
+	font-size: 18px;
+	font-family: Arial, helvetica, sans-serif;
+	line-height: 1.8em;
+	margin: 20px;
+
+
+
+}
+
+p {
+
+	background-color: grey 
+}
+
+#navbar ul{
+	padding: 0;
+	list-style:none;
+}
+#navbar li{
+	display:inline;
+}
+
+#navbar a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right: 15px
+}
+
+#navbar{
+
+	background-color: #333;
+	color: #fff; 
+}
+
+.blueP {
+
+	background-color: blue;
+
+}
+.container {
+	width: 80%;
+	margin:auto;
+	overflow: hidden;
+
+
+}
+
+.header {
+	float: center;
+
+}
+
+#shineyH1{
+
+	background-color: silver;
+
+}
+
+a:hover {
+
+	color: #000;
+}
